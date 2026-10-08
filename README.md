@@ -135,6 +135,6 @@
 - [写作与文档维护规范](docs/WRITING_RULES.md)
 - [当前项目状态](docs/CURRENT_STATE.md)
 
-模板自身的维护记录与历史验收结果，请参阅 [原项目 Wiki](https://github.com/Qing842/ai-project-template/wiki)。
-
 可选文件创建后再添加有效链接，不添加指向尚不存在文件的导航。
+
+模板自身的维护记录与历史验收结果，请参阅 [原项目 Wiki](https://github.com/Qing842/ai-project-template/wiki)。
