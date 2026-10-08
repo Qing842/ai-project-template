@@ -134,6 +134,6 @@
 - [工程规范](docs/ENGINEERING_RULES.md)
 - [写作与文档维护规范](docs/WRITING_RULES.md)
 - [当前项目状态](docs/CURRENT_STATE.md)
-- [AI 规范执行验收（2026-10-08）](docs/audits/2026-10-08-ai-rules-validation.md)
+- [AI 规范执行验收（2026-10-08，Wiki）](https://github.com/Qing842/ai-project-template/wiki/AI-%E8%A7%84%E8%8C%83%E6%89%A7%E8%A1%8C%E9%AA%8C%E6%94%B6%EF%BC%882026%E2%80%9010%E2%80%9008%EF%BC%89)
 
 可选文件创建后再添加有效链接，不添加指向尚不存在文件的导航。
