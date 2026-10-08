@@ -8,7 +8,7 @@
 
 ### 获取模板
 
-- **新项目**：Fork 本仓库并克隆到本地。
+- **新项目**：点击 `Use this template` → `Create a new repository` 创建独立仓库，再克隆到本地。
 - **已有项目**：在现有项目中向 AI 提供[模板仓库链接](https://github.com/Qing842/ai-project-template)，由 AI 读取五份核心文件并根据实际项目完成适配。
 
 ### 规范适配
